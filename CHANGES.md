@@ -1,5 +1,11 @@
 # Change log
 
+## 1.0.4 - 2026-11-22
+
+- First Moodle Marketplace release; supports Moodle 4.5 and 5.0.
+- Coding standard (moodle-extra), PHPDoc and Moodle Plugin CI checks pass; GitHub Actions CI and Marketplace release workflow added.
+- No functional change.
+
 ## 1.0.3 - 2026-07-30
 
 - Show all enrolled completion-tracked students, including suspended and expired enrolments.

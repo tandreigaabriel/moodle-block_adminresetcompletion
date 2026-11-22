@@ -25,7 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_adminresetcompletion';
-$plugin->version = 2026073003;
+$plugin->version = 2026112200;
 $plugin->requires = 2024100700; // Moodle 4.5.
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = '1.0.3';
+$plugin->supported = [405, 500];
+$plugin->release = '1.0.4';
