@@ -2,7 +2,7 @@
 
 This block allows an administrator to reset a student's course completion for recertification.
 
-Maintained by Andrei Toma.
+Maintained by Andrei Toma — TAG Digital Solutions Ltd (trading as TAG Web Design & Development), https://tandreig.com. © 2026 TAG Digital Solutions Ltd.
 
 The reset removes course and activity completion records, Choice answers, SCORM tracking,
 quiz attempts and quiz grades for the selected student in the selected course. The student

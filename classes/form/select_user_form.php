@@ -24,7 +24,8 @@ require_once($CFG->libdir . '/formslib.php');
  * Form for selecting a completed user.
  *
  * @package    block_adminresetcompletion
- * @copyright  2026 Andrei Toma
+ * @copyright  2026 TAG Digital Solutions Ltd <https://tandreig.com>
+ * @author     Andrei Toma
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class select_user_form extends \moodleform {

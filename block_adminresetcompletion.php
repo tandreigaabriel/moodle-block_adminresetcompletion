@@ -18,7 +18,8 @@
  * Admin completion reset block.
  *
  * @package    block_adminresetcompletion
- * @copyright  2026 Andrei Toma
+ * @copyright  2026 TAG Digital Solutions Ltd <https://tandreig.com>
+ * @author     Andrei Toma
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
