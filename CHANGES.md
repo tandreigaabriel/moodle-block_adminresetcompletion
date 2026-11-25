@@ -1,5 +1,10 @@
 # Change log
 
+## 1.0.5 (2026-11-25)
+
+- Copyright holder: TAG Digital Solutions Ltd (trading as TAG Web Design & Development); author Andrei Toma. No functional change.
+
+
 ## 1.0.4 - 2026-11-22
 
 - First Moodle Marketplace release; supports Moodle 4.5 and 5.0.

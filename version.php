@@ -18,15 +18,16 @@
  * This file specifies version
  *
  * @package    block_adminresetcompletion
- * @copyright  2026 Andrei Toma
+ * @copyright  2026 TAG Digital Solutions Ltd <https://tandreig.com>
+ * @author     Andrei Toma
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_adminresetcompletion';
-$plugin->version = 2026112200;
+$plugin->version = 2026112500;
 $plugin->requires = 2024100700; // Moodle 4.5.
 $plugin->maturity = MATURITY_STABLE;
 $plugin->supported = [405, 500];
-$plugin->release = '1.0.4';
+$plugin->release = '1.0.5';

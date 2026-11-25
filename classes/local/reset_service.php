@@ -20,7 +20,8 @@ namespace block_adminresetcompletion\local;
  * Resets completion and supported activity data for one course user.
  *
  * @package    block_adminresetcompletion
- * @copyright  2026 Andrei Toma
+ * @copyright  2026 TAG Digital Solutions Ltd <https://tandreig.com>
+ * @author     Andrei Toma
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class reset_service {
